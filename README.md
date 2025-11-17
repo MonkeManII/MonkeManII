@@ -1,6 +1,10 @@
-Prounouns: He/Him
+Pronouns: Any/All
 
-Indie game developer from the US
+Indie game developer from the US.
 
-All small projects and jams (except for [Exospace](https://github.com/MonkeManII/exospace-game/)).
-I'll push open-source code here.
+Engines:
+* Unity
+* OpenTK
+* Scratch (when necessary)
+
+Mostly just small projects and jams.
