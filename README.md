@@ -1,10 +1,4 @@
-Pronouns: Any/All
-
 Indie game developer from the US.
 
-Engines:
-* Unity
-* OpenTK
-* Scratch (when necessary)
 
-Mostly just small projects and jams.
+I've worked with Unity and OpenTK fairly frequently (though not professionally), and am currently working on a voxel-based game engine written in C# using OpenTK.
